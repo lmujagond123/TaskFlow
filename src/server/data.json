@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+      "id": "a9f1e4eb-b735-4fc2-a782-d519f53e682e",
+      "name": "Laxmi Mujagond",
+      "email": "laxmimujagond@gmail.com",
+      "password": "001dec5b704d5145abe48d6703524992fc1ae0104ef9c688b6cfaababf5e98771c1c62e184ebecdff37a690d1ddc8c166446ad110675e9900165db7b0dc208b9"
+    }
+  ],
+  "tasks": [],
+  "tokens": {
+    "a7b86637-edfe-486b-8274-3c1ecc60bb38": "a9f1e4eb-b735-4fc2-a782-d519f53e682e",
+    "5d6e07e1-4c03-4203-ab69-9b0d77f58ab2": "a9f1e4eb-b735-4fc2-a782-d519f53e682e"
+  }
+}
